@@ -1,1 +1,2 @@
+HydroAlert: Sistema integrado para monitorar os efeitos das mudanças climáticas em bacias hidrográficas usando tecnologias de ponta em geoprocessamento e inteligência artificial. Este projeto fornece uma plataforma interativa que oferece insights em tempo real sobre o fluxo dos rios, qualidade da água e biodiversidade aquática, facilitando a tomada de decisões informada para a gestão sustentável dos recursos hídricos e conservação dos ecossistemas aquáticos.
 # Projeto-A4-Imersao
